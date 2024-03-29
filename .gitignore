@@ -2,3 +2,5 @@
 dist/
 node_modules/
 lgpd-back/node_modules/
+node_modules
+node_modules
